@@ -1,16 +1,42 @@
-## Hi there 👋
+# Shion Watanabe
 
-<!--
-**p6644xn6jr-del/p6644xn6jr-del** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+愛知工業大学 情報科学部 情報科学科 コンピュータシステム専攻
 
-Here are some ideas to get you started:
+Web開発・バックエンド・AI / LLMについて学んでいます。
+大学入学後、ハッカソンやチーム開発を中心にプロダクト開発に取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### TrailDrop
+
+岐阜県七宗町を対象に開発した、地域商品の予約・受取サービスです。
+
+**担当**
+- 七宗町での現地ヒアリング
+- バックエンド / API開発
+- Supabaseを利用したDB変更・マイグレーション
+- テスト
+- 発表・展示
+
+4人チームで開発し、現地で得た課題をもとに、企画から実装・発表・展示まで経験しました。
+
+**GitHub:**  
+TrailDropのURLをここに貼る
+
+---
+
+### VIVORA
+
+メ〜テレ主催ハッカソンで開発したWebサービスです。
+
+5人チームのリーダーとして、企画・UI/UXデザイン・役割分担・発表などを担当しました。
+
+受賞には至りませんでしたが、アイデアの検討から実装まで取り組み、ユーザーが利用する一連のフローをMVPとして完成させました。
+
+**担当**
+- チームリーダー
+- プロダクト企画
+- UI/UXデザイン
+- チーム内の役割分担
+- プレゼンテーション
+- MVP開発
