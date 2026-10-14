@@ -42,4 +42,4 @@ Web開発・バックエンド・AI / LLMについて学んでいます。
 - プレゼンテーション
 - MVP開発
 
-**Personal Lab:** [VIVORA Lab]()
+**Personal Lab:** [VIVORA Lab](https://github.com/p6644xn6jr-del/VIVORA)
