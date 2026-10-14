@@ -20,8 +20,8 @@ Web開発・バックエンド・AI / LLMについて学んでいます。
 
 4人チームで開発し、現地で得た課題をもとに、企画から実装・発表・展示まで経験しました。
 
-**GitHub:**  
-TrailDropのURLをここに貼る
+**GitHub:**
+[TrailDrop](https://github.com/eggplant-umrk/TrailDrop)
 
 ---
 
